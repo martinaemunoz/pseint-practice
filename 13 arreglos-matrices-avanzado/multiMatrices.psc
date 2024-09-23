@@ -5,8 +5,6 @@
 // Por ejemplo, el elemento en la posición (0,0) de la matriz C será el resultado de multiplicar 
 // el elemento en la posición (0,0) de la matriz A con el elemento en la posición (0,0) de la matriz B.
 
-
-
 Algoritmo multiMatrices
 	Definir A, B, C Como Enteros
     Definir i, j Como Enteros
